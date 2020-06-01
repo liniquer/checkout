@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+    <g id="prefix__Group_5488" data-name="Group 5488" transform="translate(-880 -502)">
+        <path id="prefix__Path_5077" d="M0 0h160v160H0z" data-name="Path 5077" transform="translate(880 502)" style="fill:none"/>
+        <g id="prefix__Group_3393" data-name="Group 3393" transform="translate(726 198.683)">
+            <path id="prefix__Icon_ionic-ios-warning" d="M49.131 8.522L4.336 90.271a7.688 7.688 0 0 0 6.855 11.357h89.615a7.705 7.705 0 0 0 6.855-11.357L62.84 8.522a7.852 7.852 0 0 0-13.709 0z" data-name="Icon ionic-ios-warning" transform="translate(177.625 329.817)" style="fill:#ffd95a;stroke:#eda929;stroke-width:6px"/>
+            <path id="prefix__Path_2414" d="M146.172 367.753a4.43 4.43 0 0 1-4.909-4.909v-1.391a4.429 4.429 0 0 1 4.909-4.909h1.064a4.43 4.43 0 0 1 4.909 4.909v1.391a4.43 4.43 0 0 1-4.909 4.909zm.573-18.082q-2.782 0-3.027-3.109l-2.373-30.109a5.622 5.622 0 0 1 1.35-4.255 5.035 5.035 0 0 1 3.968-1.718 5.16 5.16 0 0 1 4.009 1.718 5.294 5.294 0 0 1 1.309 4.255l-2.291 30.109q-.245 3.109-2.945 3.109z" data-name="Path 2414" transform="translate(85.997 53.277)" style="fill:rgba(255,255,255,.85)"/>
+        </g>
+    </g>
+</svg>

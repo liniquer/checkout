@@ -1,0 +1,72 @@
+.button {
+  padding: 10px 15px;
+  font-size: $text-medium;
+  border: 0;
+  cursor: pointer;
+  outline: none;
+}
+
+.round-btn {
+  padding: 11px 20px;
+  font-size: $text-medium;
+  font-weight: 600;
+  color: $dark-gray;
+  border-radius: 24px;
+  line-height: 1.38;
+  letter-spacing: 0.26px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
+  border: 2px solid transparent;
+  cursor: pointer;
+  min-width: 135px;
+  outline: none;
+}
+
+.button-yellow {
+  background-color: $yellow;
+  transition: all linear 0.3s;
+
+  &:hover {
+    background: $dark-yellow;
+    color: #fff;
+  }
+
+  &:disabled {
+    background-color: $light-gray;
+    color: #adadad;
+    border-color: transparent;
+  }
+}
+
+.btn-b-yellow {
+  border-color: $yellow;
+  background: #fff;
+  transition: all linear 0.3s;
+
+  &:hover {
+    background: $dark-yellow;
+    color: #fff;
+  }
+
+  &:disabled {
+    background-color: $light-gray;
+    color: #adadad;
+    border-color: transparent;
+  }
+}
+
+.btn-yellow-fill {
+  background: $yellow;
+  transition: all linear 0.3s;
+  border-color: transparent;
+
+  &:hover {
+    background: $dark-yellow;
+    color: #fff;
+  }
+
+  &:disabled {
+    background-color: $light-gray;
+    color: #adadad;
+    border-color: transparent;
+  }
+}

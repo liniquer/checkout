@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="294" height="175" viewBox="0 0 294 175">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-6 {
+        fill: rgba(255,255,255,0.85);
+      }
+
+      .cls-2 {
+        font-size: 20px;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-2, .cls-6 {
+        font-family: SourceSansPro-Regular, Source Sans Pro;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 12px;
+        font-family: SourceSansPro-Light, Source Sans Pro;
+        font-weight: 300;
+        letter-spacing: 0.018em;
+      }
+
+      .cls-5 {
+        font-size: 17px;
+        font-family: SourceSansPro-SemiBold, Source Sans Pro;
+        font-weight: 600;
+      }
+
+      .cls-6 {
+        font-size: 8px;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-9 {
+        fill: #cacaca;
+      }
+
+      .cls-10 {
+        filter: url(#Rectangle_1902);
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="-0.07" x2="0.941" y2="0.92" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#040404"/>
+      <stop offset="1" stop-color="#414148"/>
+    </linearGradient>
+    <filter id="Rectangle_1902" x="0" y="0" width="294" height="175" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f09a0c"/>
+      <stop offset="1" stop-color="#c87d02"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e8001a"/>
+      <stop offset="1" stop-color="#b10417"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_5358" data-name="Group 5358" transform="translate(-362 -326)">
+    <g id="Group_3503" data-name="Group 3503" transform="translate(365 329)">
+      <g id="Group_2436" data-name="Group 2436">
+        <g id="Group_2398" data-name="Group 2398">
+          <g class="cls-10" transform="matrix(1, 0, 0, 1, -3, -3)">
+            <rect id="Rectangle_1902-2" data-name="Rectangle 1902" class="cls-1" width="288" height="169" rx="12" transform="translate(3 3)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_3498" data-name="Group 3498" transform="translate(19 73)">
+        <text id="_7894" data-name="7894" class="cls-2" transform="translate(210 20)"><tspan x="0" y="0">7894</tspan></text>
+        <g id="Group_3517" data-name="Group 3517" transform="translate(139.944 11)">
+          <circle id="Ellipse_121" data-name="Ellipse 121" class="cls-3" cx="2.5" cy="2.5" r="2.5" transform="translate(32)"/>
+          <circle id="Ellipse_122" data-name="Ellipse 122" class="cls-3" cx="2.5" cy="2.5" r="2.5" transform="translate(21)"/>
+          <circle id="Ellipse_123" data-name="Ellipse 123" class="cls-3" cx="2.5" cy="2.5" r="2.5" transform="translate(11)"/>
+          <circle id="Ellipse_124" data-name="Ellipse 124" class="cls-3" cx="2.5" cy="2.5" r="2.5"/>
+        </g>
+        <g id="Group_3518" data-name="Group 3518" transform="translate(69.972 12)">
+          <circle id="Ellipse_121-2" data-name="Ellipse 121" class="cls-3" cx="2.5" cy="2.5" r="2.5" transform="translate(32)"/>
+          <circle id="Ellipse_122-2" data-name="Ellipse 122" class="cls-3" cx="2.5" cy="2.5" r="2.5" transform="translate(21)"/>
+          <circle id="Ellipse_123-2" data-name="Ellipse 123" class="cls-3" cx="2.5" cy="2.5" r="2.5" transform="translate(11)"/>
+          <circle id="Ellipse_124-2" data-name="Ellipse 124" class="cls-3" cx="2.5" cy="2.5" r="2.5"/>
+        </g>
+        <g id="Group_3519" data-name="Group 3519" transform="translate(0 14)">
+          <circle id="Ellipse_121-3" data-name="Ellipse 121" class="cls-3" cx="2.5" cy="2.5" r="2.5" transform="translate(32)"/>
+          <circle id="Ellipse_122-3" data-name="Ellipse 122" class="cls-3" cx="2.5" cy="2.5" r="2.5" transform="translate(21)"/>
+          <circle id="Ellipse_123-3" data-name="Ellipse 123" class="cls-3" cx="2.5" cy="2.5" r="2.5" transform="translate(11)"/>
+          <circle id="Ellipse_124-3" data-name="Ellipse 124" class="cls-3" cx="2.5" cy="2.5" r="2.5"/>
+        </g>
+      </g>
+      <g id="Group_3497" data-name="Group 3497" transform="translate(20 129)">
+        <text id="John_Smith" data-name="John Smith" class="cls-4" transform="translate(58 12)"><tspan x="-57.852" y="0">John Smith</tspan></text>
+      </g>
+      <g id="Group_3496" data-name="Group 3496" transform="translate(200.271 126)">
+        <text id="_06_07" data-name="06/07" class="cls-5" transform="translate(71.729 17)"><tspan x="-40.732" y="0">06/07</tspan></text>
+        <text id="VALID_THRU" data-name="VALID
+THRU" class="cls-6" transform="translate(19 11)"><tspan x="-19.272" y="0">VALID</tspan><tspan x="-19.216" y="7">THRU</tspan></text>
+      </g>
+    </g>
+    <g id="Group_3516" data-name="Group 3516" transform="translate(586 344)">
+      <circle id="Ellipse_120" data-name="Ellipse 120" class="cls-7" cx="16.5" cy="16.5" r="16.5" transform="translate(19)"/>
+      <ellipse id="Ellipse_119" data-name="Ellipse 119" class="cls-8" cx="16" cy="16.5" rx="16" ry="16.5"/>
+    </g>
+    <path id="Subtraction_7" data-name="Subtraction 7" class="cls-9" d="M20.777,33.2H4a4,4,0,0,1-4-4V26.267H12.222l4.011-3.946h4.544V33.2ZM40,33.2H23.223V22.321h4.482l4.011,3.946H43.938V24.422h-10.9l-3.459-3.458V17.525H44V29.2A4,4,0,0,1,40,33.2ZM10.912,24.422H0v-6.9H14.666v3.386l-3.754,3.51ZM44,15.681H29.578V12.313l3.459-3.458h10.9V7.01H31.716l-4.125,4.058H23.223V0H40a4,4,0,0,1,4,4V15.68Zm-29.334,0H0V8.855H10.912l3.755,3.537V15.68Zm6.111-4.613h-4.43L12.222,7.01H0V4A4,4,0,0,1,4,0H20.777V11.067Z" transform="translate(383.333 348.667)"/>
+  </g>
+</svg>

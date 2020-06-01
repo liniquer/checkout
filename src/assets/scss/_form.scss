@@ -1,0 +1,140 @@
+.label-gray {
+  font-size: $text-medium;
+  color: $gray-600;
+  letter-spacing: 0.26px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  width: 100%;
+  display: flex;
+  height: 20px;
+  align-items: center;
+}
+
+.field-round {
+  border-radius: 25px;
+  border: 2px solid transparent;
+  padding: 14px 15px;
+  font-size: $text;
+  color: $gray-600;
+  box-sizing: border-box;
+  width: 100%;
+  outline: none;
+
+  &:focus {
+    border-color: $yellow;
+  }
+}
+
+.field-full {
+  width: 100%;
+}
+
+.field-half {
+  width: 48%;
+}
+
+.field-gray {
+  border-color: $gray-400;
+}
+
+//Checkbox
+$checked-color: #dfa300;
+$unchecked-color: #000;
+$checkbox-height: 20px;
+$background-color: #fff;
+$font-color: #fff;
+$duration: 0.4s;
+
+@keyframes dothabottomcheck {
+  0% {
+    height: 0;
+  }
+  100% {
+    height: $checkbox-height/2;
+  }
+}
+
+@keyframes dothatopcheck {
+  0% {
+    height: 0;
+  }
+  50% {
+    height: 0;
+  }
+  100% {
+    height: $checkbox-height * 1.2;
+  }
+}
+
+input[type='checkbox'] {
+  display: none;
+}
+
+.label-checkbox {
+  font-size: $text-medium;
+  color: $dark-gray;
+  font-weight: 700;
+  padding-top: 2px;
+
+  span {
+    color: $dark-yellow;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+}
+
+.checkbox-yellow {
+  height: $checkbox-height;
+  width: $checkbox-height;
+  background-color: transparent;
+  border: $checkbox-height * 0.1 solid $yellow;
+  border-radius: 5px;
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+  transition: border-color ease $duration/2;
+  cursor: pointer;
+  margin-right: 12px;
+
+  &::before,
+  &::after {
+    box-sizing: border-box;
+    position: absolute;
+    height: 0;
+    width: $checkbox-height * 0.15;
+    background-color: $checked-color;
+    display: inline-block;
+    transform-origin: left top;
+    border-radius: 5px;
+    content: ' ';
+    transition: opacity ease 0.5;
+  }
+
+  &::before {
+    top: $checkbox-height * 0.72;
+    left: $checkbox-height * 0.41;
+    box-shadow: 0 0 0 $checkbox-height * 0.05 $background-color;
+    transform: rotate(-135deg);
+  }
+
+  &::after {
+    top: $checkbox-height * 0.37;
+    left: $checkbox-height * 0.05;
+    transform: rotate(-45deg);
+  }
+}
+
+input[type='checkbox']:checked + .checkbox-yellow,
+.checkbox-yellow.checked {
+  border-color: $yellow;
+
+  &::after {
+    height: $checkbox-height * 0.5;
+    animation: dothabottomcheck $duration/2 ease 0s forwards;
+  }
+
+  &::before {
+    height: $checkbox-height * 1.2;
+    animation: dothatopcheck $duration ease 0s forwards;
+  }
+}
